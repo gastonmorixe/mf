@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<url><loc>http://www.multifiesta.com.uy/</loc><changefreq>weekly</changefreq></url>
-
-<url><loc>http://www.multifiesta.com.uy/servicio-de-gastronomia-y-catering/pizzas-a-la-parrilla/</loc><changefreq>weekly</changefreq></url>
-
-<url><loc>http://www.multifiesta.com.uy/ambientacion-y-decoracion/globos-con-helio-y-aire/</loc><changefreq>weekly</changefreq></url>
-
-<url><loc>http://www.multifiesta.com.uy/servicio-integral-de-eventos/</loc><changefreq>weekly</changefreq></url>
-
-<url><loc>http://www.multifiesta.com.uy/quienes-somos/</loc><changefreq>weekly</changefreq></url>
-
+<url><loc>http://www.multifiesta.com.uy/</loc><changefreq>daily</changefreq></url>
+<url><loc>http://www.multifiesta.com.uy/servicio-de-gastronomia-y-catering/pizzas-a-la-parrilla/</loc><changefreq>daily</changefreq></url>
+<url><loc>http://www.multifiesta.com.uy/ambientacion-y-decoracion/globos-con-helio-y-aire/</loc><changefreq>daily</changefreq></url>
+<url><loc>http://www.multifiesta.com.uy/servicio-integral-de-eventos/</loc><changefreq>daily</changefreq></url>
+<url><loc>http://www.multifiesta.com.uy/quienes-somos/</loc><changefreq>daily</changefreq></url>
+<url><loc>http://www.multifiesta.com.uy/privacidad</loc><changefreq>daily</changefreq></url>
 </urlset>
